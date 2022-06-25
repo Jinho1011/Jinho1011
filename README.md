@@ -1,8 +1,13 @@
-# Hello There 👋
-도전을 두려워하지 않는 개발자입니다 
-# Skills 💻
-### Frontend
-![](https://img.shields.io/badge/-React%20Native-black) ![](https://img.shields.io/badge/-React-black) ![](https://img.shields.io/badge/-Typescript-black) ![](https://img.shields.io/badge/-Redux-black) ![](https://img.shields.io/badge/React--Query-black) ![](https://img.shields.io/badge/-Styled--Component-black)
+# 안녕하세요, 전 진호 입니다
 
-### Cooperation
-![](https://img.shields.io/badge/-Notion-black) ![](https://img.shields.io/badge/-Git-black) ![](https://img.shields.io/badge/-Github-black) ![](https://img.shields.io/badge/-Slack-black)
+> ~~I’m jinho~~
+
+**지금은** 프론트엔드 개발자이지만 다른 다양한 분야에 관심을 가지고 있습니다. 이브이 같은 개발자가 되기 위해 노력 중입니다.
+
+## 기술
+- Javasript (Typescript)
+  - React
+  - Next.js
+  - NestJS
+- Python
+  - Django  
