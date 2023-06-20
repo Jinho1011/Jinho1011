@@ -2,4 +2,5 @@
 
 ![Jinho1011's github stats](https://github-readme-stats.vercel.app/api?username=Jinho1011&show_icons=true&theme=tokyonight&count_private=true)
 
-take a quick look at my [resume](https://jinhoda.notion.site/55b3c7afec4843099d875c5f3162071b?pvs=4) 😎
+take a quick look at my [resume](https://github.com/Jinho1011/Jinho1011/files/11795916/resume.pdf) 😎
+
